@@ -1,7 +1,7 @@
 - 👋 Salut, je suis @kylianjoff
-- 👀 Je gère en HTML et en CSS
-- 🌱 J'apprend actuellement le PHP et le JAVA
-- 📫 Twitter : @juliakylian | Instagram : @kylianj.off | Discord : kylianj.off#6721
+- 👀 Maîtrise en : Python, HTML, CSS, JavaScript, UNIX, C, Scheme
+- 🌱 Etudiant en ingénierie informatique
+- 📫 Instagram : @kylianj.off | Discord : kylianj.off
 
 <!---
 kylianjoff/kylianjoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
